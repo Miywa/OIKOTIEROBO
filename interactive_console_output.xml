@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.10.12 on win32)" generated="20241111 18:41:42.354" rpa="false" schemaversion="4">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\tansk\.vscode\extensions\robocorp.robotframework-lsp-1.13.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Avaa Te-Verkkosivu">
+<msg timestamp="20241111 18:41:43.544" level="FAIL">No keyword with name 'Avaa Te-Verkkosivu' found.</msg>
+<status status="FAIL" starttime="20241111 18:41:43.543" endtime="20241111 18:41:43.544"/>
+</kw>
+<kw name="Lisää Hakusanat">
+<status status="NOT RUN" starttime="20241111 18:41:43.546" endtime="20241111 18:41:43.546"/>
+</kw>
+<kw name="Kerää Työpaikkailmoitusten Linkit">
+<status status="NOT RUN" starttime="20241111 18:41:43.547" endtime="20241111 18:41:43.547"/>
+</kw>
+<kw name="Avaa Ensimmäiset 15 Linkkiä ja Ota Kuvakaappaukset">
+<status status="NOT RUN" starttime="20241111 18:41:43.548" endtime="20241111 18:41:43.548"/>
+</kw>
+<kw name="Luo PDF HTML-sisällöstä">
+<status status="NOT RUN" starttime="20241111 18:41:43.551" endtime="20241111 18:41:43.551"/>
+</kw>
+<status status="PASS" starttime="20241111 18:41:42.396" endtime="20241111 18:42:00.601"/>
+</kw>
+<status status="PASS" starttime="20241111 18:41:42.395" endtime="20241111 18:42:00.601"/>
+</test>
+<status status="PASS" starttime="20241111 18:41:42.359" endtime="20241111 18:42:00.603"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
